@@ -1,0 +1,30 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [-2772090, 2382330],
+                    [-2775158, 2383696],
+                    [-2775562, 2399906],
+                    [-2757838, 2404804],
+                    [-2759806, 2392146],
+                    [-2772090, 2382330]
+                ]
+            ]
+        },
+        "properties": {
+            "CNTR_ID": "VC",
+            "ISO3_CODE": "VCT",
+            "CNTR_NAME": "Saint Vincent and the Grenadines",
+            "NAME_ENGL": "Saint Vincent and the Grenadines",
+            "FID": "VC"
+        }
+    }
+    ]
+}
+
+
+
